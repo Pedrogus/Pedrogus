@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Pedrogus
-- 👀 I’m interested in Game developer
-- 🌱 I’m currently learning C* and Java
-- TryHackMe lerning lv 2
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-\
-<!---
-Pedrogus/Pedrogus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Olá, meu nome é Pedro Gustavo!
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Estudando na Fiap<br/> Eu sou desenvolvedor Back-end</p>
