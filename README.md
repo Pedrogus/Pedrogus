@@ -2,6 +2,8 @@
 
 Olá! Eu sou o Pedro, estudante de **Engenharia de Software** no segundo ano, com experiência em **Java**, **React**, **PostgreSQL**, **MySQL** e **Godot Engine**. Estou sempre explorando novas tecnologias e criando soluções inovadoras, especialmente em projetos que envolvem sustentabilidade e gamificação.
 
+![Metrics](https://metrics.lecoq.io/Pedrogus?template=classic\&repositories.forks=true\&isocalendar=1\&languages=1\&activity=1\&achievements=1\&traffic=1\&activity.days=1\&activity.limit=5\&activity.visibility=all\&config.timezone=America%2FSao_Paulo)
+
 ## 🚀 Projetos em Destaque
 
 * **CriptoSafe Invest** (Java, React, PostgreSQL) - Plataforma segura para investimentos em criptoativos.
@@ -35,4 +37,5 @@ Além de programar, sou apaixonado por RPGs e desenvolvimento de mundos fictíci
 ---
 
 Obrigado por visitar meu perfil! Vamos construir algo incrível juntos. 🚀
+
 
