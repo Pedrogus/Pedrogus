@@ -19,7 +19,7 @@ Olá! Eu sou o Pedro, estudante de **Engenharia de Software** no segundo ano, co
 
 * LinkedIn: [linkedin.com/in/pedrogus](https://linkedin.com/in/pedrogus)
 * GitHub: [github.com/Pedrogus](https://github.com/Pedrogus)
-* Email: [seuemail@example.com](mailto:seuemail@example.com)
+* Email: [pedrojuchimiuk@gmail.com](mailto:pedrojuchimiuk@gmail.com)
 
 ## 🛠️ Tecnologias e Ferramentas
 
