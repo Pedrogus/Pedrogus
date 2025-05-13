@@ -1,41 +1,66 @@
-# 💻 Pedrogus - Desenvolvedor de Software
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Pedrogus&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-Olá! Eu sou o Pedro, estudante de **Engenharia de Software** no segundo ano, com experiência em **Java**, **React**, **PostgreSQL**, **MySQL** e **Godot Engine**. Estou sempre explorando novas tecnologias e criando soluções inovadoras, especialmente em projetos que envolvem sustentabilidade e gamificação.
+### Olá, meu nome é Pedro Gustavo Juchimiul!
 
-![Metrics](https://metrics.lecoq.io/Pedrogus?template=classic\&repositories.forks=true\&isocalendar=1\&languages=1\&activity=1\&achievements=1\&traffic=1\&activity.days=1\&activity.limit=5\&activity.visibility=all\&config.timezone=America%2FSao_Paulo)
+<img src="https://img.shields.io/static/v1?label=Overview&message=PedroGustavo&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Eu sou desenvolvedor Back-end e desenvolvedor de games. Atualmente, estou no segundo ano de Engenharia de Software e busco sempre explorar novas tecnologias, criando soluções inovadoras e sustentáveis.</p>
 
 ## 🚀 Projetos em Destaque
 
-* **CriptoSafe Invest** (Java, React, PostgreSQL) - Plataforma segura para investimentos em criptoativos.
-* **Jogo de Cartas - Odisseia** (Godot 4.4) - Jogo inspirado em Balatro com cartas de Tarô personalizadas.
-* **V-Pet para um Mundo Reciclável** (Iniciação Científica) - Mascote virtual que incentiva a reciclagem através de detecção de objetos.
+- **CriptoSafe Invest (Java, React, PostgreSQL)**: Plataforma segura para investimentos em criptoativos.
+- **Jogo de Cartas - Odisseia (Godot 4.4)**: Jogo inspirado em Balatro com cartas de Tarô personalizadas.
+- **V-Pet para um Mundo Reciclável (Iniciação Científica)**: Mascote virtual que incentiva a reciclagem através de detecção de objetos.
+
+## Minhas Skills
+
+**Aplicações e dados**
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**Utilidades**
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 ## 🌱 Interesses
 
-* Desenvolvimento de jogos 2D e 3D
-* Aplicações financeiras e blockchain
-* Sustentabilidade e tecnologias verdes
-* Criação de sistemas interativos e dashboards
+- Desenvolvimento de jogos 2D e 3D
+- Aplicações financeiras e blockchain
+- Sustentabilidade e tecnologias verdes
+- Criação de sistemas interativos e dashboards
 
 ## 📫 Conecte-se comigo
 
-* LinkedIn: [linkedin.com/in/pedrogus](https://linkedin.com/in/pedrogus)
-* GitHub: [github.com/Pedrogus](https://github.com/Pedrogus)
-* Email: [pedrojuchimiuk@gmail.com](mailto:pedrojuchimiuk@gmail.com)
+- **LinkedIn**: [linkedin.com/in/pedrogus](https://www.linkedin.com/in/pedrogus)
+- **GitHub**: [github.com/Pedrogus](https://github.com/Pedrogus)
+- **Email**: pedrojuchimiuk@gmail.com
 
 ## 🛠️ Tecnologias e Ferramentas
 
-* **Linguagens:** Java, JavaScript, TypeScript
-* **Frameworks:** React, Node.js
-* **Motores de Jogo:** Godot Engine
-* **Bancos de Dados:** PostgreSQL, MySQL
+- **Linguagens**: Java, JavaScript, TypeScript
+- **Frameworks**: React, Node.js
+- **Motores de Jogo**: Godot Engine
+- **Bancos de Dados**: PostgreSQL, MySQL
 
 ## 🎮 Jogador e Criador
 
 Além de programar, sou apaixonado por RPGs e desenvolvimento de mundos fictícios. Gosto de criar narrativas imersivas e experiências únicas para os jogadores.
 
----
-
 Obrigado por visitar meu perfil! Vamos construir algo incrível juntos. 🚀
-
-
