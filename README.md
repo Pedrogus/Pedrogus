@@ -1,7 +1,38 @@
-<p align="left">
-  <a href="https://www.linkedin.com/in/pedro-gustavo-juchimiuk-22ab0523b/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-</p>
+# 💻 Pedrogus - Desenvolvedor de Software
 
+Olá! Eu sou o Pedro, estudante de **Engenharia de Software** no segundo ano, com experiência em **Java**, **React**, **PostgreSQL**, **MySQL** e **Godot Engine**. Estou sempre explorando novas tecnologias e criando soluções inovadoras, especialmente em projetos que envolvem sustentabilidade e gamificação.
 
-[![card](https://github-readme-stats.vercel.app/api?username=Pedrogus&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 Projetos em Destaque
+
+* **CriptoSafe Invest** (Java, React, PostgreSQL) - Plataforma segura para investimentos em criptoativos.
+* **Jogo de Cartas - Odisseia** (Godot 4.4) - Jogo inspirado em Balatro com cartas de Tarô personalizadas.
+* **V-Pet para um Mundo Reciclável** (Iniciação Científica) - Mascote virtual que incentiva a reciclagem através de detecção de objetos.
+
+## 🌱 Interesses
+
+* Desenvolvimento de jogos 2D e 3D
+* Aplicações financeiras e blockchain
+* Sustentabilidade e tecnologias verdes
+* Criação de sistemas interativos e dashboards
+
+## 📫 Conecte-se comigo
+
+* LinkedIn: [linkedin.com/in/pedrogus](https://linkedin.com/in/pedrogus)
+* GitHub: [github.com/Pedrogus](https://github.com/Pedrogus)
+* Email: [seuemail@example.com](mailto:seuemail@example.com)
+
+## 🛠️ Tecnologias e Ferramentas
+
+* **Linguagens:** Java, JavaScript, TypeScript
+* **Frameworks:** React, Node.js
+* **Motores de Jogo:** Godot Engine
+* **Bancos de Dados:** PostgreSQL, MySQL
+
+## 🎮 Jogador e Criador
+
+Além de programar, sou apaixonado por RPGs e desenvolvimento de mundos fictícios. Gosto de criar narrativas imersivas e experiências únicas para os jogadores.
+
+---
+
+Obrigado por visitar meu perfil! Vamos construir algo incrível juntos. 🚀
+
